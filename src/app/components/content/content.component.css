@@ -1,0 +1,11 @@
+.main{
+    border: 2px solid steelblue;
+    color: darkblue;
+    margin: 5px;
+    padding: 20px;
+}
+
+ul{
+    list-style: none;
+    padding: 2px;
+}
